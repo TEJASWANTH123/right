@@ -19,5 +19,5 @@ int main() {
 
   vector<int> Arr  ={7,1,5,3,6,4};
 
-  cout<<"The maximum profi by selling the stock is "<<maximumProfit(Arr);
+  cout<<"The maximum profit by selling the stock is "<<maximumProfit(Arr);
 }
